@@ -1,0 +1,13 @@
+{
+    "db_conn": {
+        "client": "sqlite3",
+        "filename": "db1.db"
+        
+        },
+
+    "logger": { 
+        "console_level": "info",
+        "file_level": "debug",
+        "file_name": "logs.log"
+    }
+}

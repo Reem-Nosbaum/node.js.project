@@ -1,0 +1,582 @@
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:38:19.341Z'
+}
+{
+  message: 'Listening on port 8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:38:19.567Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:39:09.475Z'
+}
+{
+  message: 'Listening on port http://localhost8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:39:09.672Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:39:10.713Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:39:10.905Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:41:21.608Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:41:21.785Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:42:14.826Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:42:15.036Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:42:20.540Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:42:20.727Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:42:35.176Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:42:35.367Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:42:39.708Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:42:39.909Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:42:41.867Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:42:42.059Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:42:43.344Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:42:43.526Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:42:51.792Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:42:51.977Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:42:55.347Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:42:55.527Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:44:20.597Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:44:20.787Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:44:29.794Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:44:29.994Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:44:44.121Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:44:44.322Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:44:53.876Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:44:54.072Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:44:57.811Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:44:58.035Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:45:02.862Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:45:03.082Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T13:48:54.975Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T13:48:55.157Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:01:25.384Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:01:25.561Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:01:29.075Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:01:29.277Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:02:27.996Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:02:28.179Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:05:12.807Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:05:13.005Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:06:04.352Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:06:04.551Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:06:05.144Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:06:05.324Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:07:28.070Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:07:28.278Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:08:04.731Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:08:04.938Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:08:06.523Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:08:06.713Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:08:07.625Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:08:07.824Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:08:10.331Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:08:10.540Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:14:03.844Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:14:04.017Z'
+}
+{
+  message: 'failed to insert report. Error: ReferenceError: moveis_repo is not defined',
+  level: 'error',
+  label: 'main module',
+  timestamp: '2022-06-01T14:18:06.276Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:18:38.873Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:18:39.052Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:20:19.303Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:20:19.487Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:21:47.776Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:21:48.066Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:22:09.235Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:22:09.434Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:23:00.802Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:23:00.993Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-01T14:23:04.171Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-01T14:23:04.377Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-03T13:22:40.809Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-03T13:22:41.033Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-04T10:29:46.695Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-04T10:29:46.907Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-04T14:56:17.302Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-04T14:56:17.480Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-04T15:11:52.670Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-04T15:11:52.893Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-04T15:16:12.360Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-04T15:16:12.563Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-12T13:36:41.146Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-12T13:36:41.345Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-12T13:39:13.437Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-12T13:39:13.622Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-12T13:39:35.900Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-12T13:39:36.094Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-12T13:39:37.664Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-12T13:39:37.838Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-12T13:39:44.475Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-12T13:39:44.671Z'
+}
+{
+  message: '====== System startup ========',
+  level: 'debug',
+  label: 'main module',
+  timestamp: '2022-06-14T07:12:07.717Z'
+}
+{
+  message: 'Listening on port http://localhost:8080',
+  level: 'info',
+  label: 'main module',
+  timestamp: '2022-06-14T07:12:07.928Z'
+}
